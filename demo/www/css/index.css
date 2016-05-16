@@ -1,0 +1,16 @@
+
+body {
+	margin: 10px;
+}
+
+button {
+	width: 80px;
+	height: 36px;
+}
+
+#photo {
+	display: none;
+	padding-top: 20px;
+	width: 100%;
+	height: auto;
+}
